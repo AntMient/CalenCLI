@@ -1,14 +1,4 @@
 # Project: CalenCLI
-
-Welcome to your first extended project of the Ruby Module. We hope it has been a
-challenging but rewarding week for all of you. It is time to put all that effort
-into practice and start working on a new project with a team.
-
-Today's project is **CalenCLI,** the best calendar on a command-line interface
-💻
-
-With this app you will practice a lot of:
-
 - Handling data structures to store, modify and delete information.
 - Code organization through
   [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) principle using
